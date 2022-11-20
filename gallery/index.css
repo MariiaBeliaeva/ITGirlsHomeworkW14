@@ -1,0 +1,16 @@
+.gallery__wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery__button {
+  cursor: pointer;
+  background-color: darkolivegreen;
+  border-radius: 2px;
+  border: none;
+  padding: 0.5rem;
+}
